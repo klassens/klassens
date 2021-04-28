@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samuel Klassen
+- 👋 Hi, I’m Samu
 - 👀 I’m interested in modern software-development stuff
 - 🌱 I’m currently learning Docker, Cloud, JS-Frameworks, Linux, ...
 - 💞️ I’m looking to collaborate on open-source software, that improves things of daily life and drives digitalization forward
